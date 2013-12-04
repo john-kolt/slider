@@ -1,0 +1,4 @@
+slider
+======
+
+JavaScript menu slider
